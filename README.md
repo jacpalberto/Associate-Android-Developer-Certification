@@ -55,9 +55,9 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
 
 - Given a problem description, replicate the failure
   - [x] [Experts App Clinic:Best Practices when building apps for billions][testing_and_debugging_experts_app_clinic]
-- [ ] Use the system log to output debug information
-     - [ ] [[Android Developer Site] Write and View Logs with Logcat](https://developer.android.com/studio/debug/am-logcat.html)
-     - [ ] [ [Udacity Developing Android Apps] Logging](https://youtu.be/i8CELIzOXCs)
+- [x] Use the system log to output debug information
+     - [x] [[Android Developer Site] Write and View Logs with Logcat](https://developer.android.com/studio/debug/am-logcat.html)
+     - [x] [ [Udacity Developing Android Apps] Logging](https://youtu.be/i8CELIzOXCs)
 - [ ] Debug and fix an application crash (uncaught exception)
    - [ ] [[Android Developer Site] Debug your App](https://developer.android.com/studio/debug/index.html)
 - [ ] Debug and fix an activity lifecycle issue
