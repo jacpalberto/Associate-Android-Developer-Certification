@@ -80,12 +80,12 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
 - [ ] Create a custom view class and add it to a layout
   - [ ] [[Team Treehouse Course] Custom Views in Android](https://teamtreehouse.com/library/custom-views-in-android)
 - [ ] Implement a custom application theme
-  - [ ] [[Android Developer Page] Styles and Themes](https://developer.android.com/guide/topics/ui/themes.html)
+  - [x] [[Android Developer Page] Styles and Themes](https://developer.android.com/guide/topics/ui/themes.html)
   - [ ] [[CodePath* Page] Developing Custom Theme](https://guides.codepath.com/android/Developing-Custom-Themes)
   - [ ] [[Android Studio Page] Design App Themes with Theme Editor](https://developer.android.com/studio/write/theme-editor.html)
   - [x] [[Udacity Course] Developing Android Apps Lesson: Polishing the UI - Styles and Themes](https://www.udacity.com/course/new-android-fundamentals--ud851)
-- [ ] Apply a custom style to a group of common widgets
-  - [ ] [[Android Developer Page] Styles and Themes](https://developer.android.com/guide/topics/ui/themes.html)
+- [x] Apply a custom style to a group of common widgets
+  - [x] [[Android Developer Page] Styles and Themes](https://developer.android.com/guide/topics/ui/themes.html)
   
 - [ ] Define a RecyclerView item list
   - [ ] [[Android Developer Site] Recycler View](https://developer.android.com/guide/topics/ui/layout/recyclerview.html)
