@@ -187,7 +187,7 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
 [testing_and_debugging_building_effective_unit_test]:<https://developer.android.com/training/testing/unit-testing/index.html>
 [testing_and_debugging_android_test_samples]:<https://github.com/googlesamples/android-testing>
 [testing_debuggin_ui_testing]:<https://developer.android.com/training/testing/ui-testing/index.html>
-[testing_and_debuggin_espresso]:<https://google.github.io/android-testing-support-library/docs/espresso/index.html>
+[testing_and_debuggin_espresso]:<https://developer.android.com/training/testing/espresso/>
 [testing_and_debuggin_ui_automator]:<https://google.github.io/android-testing-support-library/docs/uiautomator/index.html>
 [testing_and_debugging_google_io]:<https://www.youtube.com/watch?v=isihPOY2vS4&index=29&list=PLWz5rJ2EKKc8jQTUYvIfqA9lMvSGQWtte>
 [testing_debuggin_play_list_android_testing_patterns]:<https://www.youtube.com/watch?v=W8LJjfkTKik&list=PLWz5rJ2EKKc-6HWg_jyP0U1zrVLHn65b2>
