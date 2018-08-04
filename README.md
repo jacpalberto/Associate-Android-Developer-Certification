@@ -44,8 +44,8 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
   - [ ] [Intro to testing part 2, @riggaroo][testing_and_debugging_intro_testing_reggaroo_1]
   - [ ] [Intro to testing part 3, @riggaroo][testing_and_debugging_intro_testing_reggaroo_3]
 - Write and execute a device UI test
-  - [ ] [[Fragmented Podcast] Episodeo 78 Ten Testing Strategies with Michael Bailey](http://fragmentedpodcast.com/episodes/78/)
-  - [ ] [Automating User Interface Tests][testing_debuggin_ui_testing]
+  - [x] [[Fragmented Podcast] Episodeo 78 Ten Testing Strategies with Michael Bailey](http://fragmentedpodcast.com/episodes/78/)
+  - [x] [Automating User Interface Tests][testing_debuggin_ui_testing]
   - [ ] [Espresso][testing_and_debuggin_espresso]
   - [ ] [UI Automator][testing_and_debuggin_ui_automator]
   - [ ] [Advanced Espresso Google I/O 2016][testing_and_debugging_google_io]
@@ -75,7 +75,7 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
 ](https://codelabs.developers.google.com/codelabs/constraint-layout/#0)
   
 - [x] Describe interactions between UI, background task, and data persistence
-- [ ] Construct a layout using XML or Java code
+- [x] Construct a layout using XML or Java code
   - [ ] [ [Techotopia] Creating an Android User Interface in Java Code](http://www.techotopia.com/index.php/Creating_an_Android_User_Interface_in_Java_Code)
 - [ ] Create a custom view class and add it to a layout
   - [ ] [[Team Treehouse Course] Custom Views in Android](https://teamtreehouse.com/library/custom-views-in-android)
@@ -83,7 +83,7 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
   - [ ] [[Android Developer Page] Styles and Themes](https://developer.android.com/guide/topics/ui/themes.html)
   - [ ] [[CodePath* Page] Developing Custom Theme](https://guides.codepath.com/android/Developing-Custom-Themes)
   - [ ] [[Android Studio Page] Design App Themes with Theme Editor](https://developer.android.com/studio/write/theme-editor.html)
-  - [ ] [[Udacity Course] Developing Android Apps Lesson: Polishing the UI - Styles and Themes](https://www.udacity.com/course/new-android-fundamentals--ud851)
+  - [x] [[Udacity Course] Developing Android Apps Lesson: Polishing the UI - Styles and Themes](https://www.udacity.com/course/new-android-fundamentals--ud851)
 - [ ] Apply a custom style to a group of common widgets
   - [ ] [[Android Developer Page] Styles and Themes](https://developer.android.com/guide/topics/ui/themes.html)
   
@@ -110,16 +110,16 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
     - [ ] [[Android Developer Page] Localization checklist](https://developer.android.com/distribute/best-practices/launch/localization-checklist.html)
   - [ ] [[Android Developer Page] NumberFormat](https://developer.android.com/reference/java/text/NumberFormat.html)
   - [ ] [[Android Developer Page] DateFormat](https://developer.android.com/reference/java/text/DateFormat.html)
-- [ ] Apply content descriptions to views for accessibility
-   - [ ]  [[Android Developer Page] Accessibility](https://developer.android.com/guide/topics/ui/accessibility/index.html)
-   - [ ] [[Udacity Course] Developing Android Apps Lesson: Completing the UI - Accessibility](https://www.udacity.com/course/new-android-fundamentals--ud851)
+- [x] Apply content descriptions to views for accessibility
+   - [x]  [[Android Developer Page] Accessibility](https://developer.android.com/guide/topics/ui/accessibility/index.html)
+   - [x] [[Udacity Course] Developing Android Apps Lesson: Completing the UI - Accessibility](https://www.udacity.com/course/new-android-fundamentals--ud851)
  - Add accessibility hooks to a custom view
     - [ ] [[Android Developer Page] Building Accessible Custom Views](https://developer.android.com/guide/topics/ui/accessibility/custom-views.html)
 
 #### Fundamental Application Components
 >Understanding of Android's top-level application components ([Activity](https://www.youtube.com/playlist?list=PLWy8DQlwJkdw5GZHEj4ZhR4cayR-ou6Hh), [Service](https://www.youtube.com/playlist?list=PLWy8DQlwJkdzW-dHvL1py-vyF6vYEmDmw), [Broadcast Receiver](https://www.youtube.com/playlist?list=PLWy8DQlwJkdwtBDTpP3tsjx0wXhR2shOq), [Content Provider](https://www.youtube.com/playlist?list=PLWy8DQlwJkdy2_bBHMQgGyrN4784K3Go0)) and the lifecycle associated with each one. Candidates should be able to describe the types of application logic that would be best suited for each component, and whether that component is executing in the foreground or in the background. This includes strategies for determining how and when to execute background work.
 - [ ] Describe an application's key functional and nonfunctional requirements
-- [ ] Create an Activity that displays a layout resource
+- [x] Create an Activity that displays a layout resource
 - [ ] [Schedule a time-sensitive task using alarms](https://github.com/firebase/firebase-jobdispatcher-android)
   - [ ] [[Udacity Course] Developing Android Apps Lesson: Background Tasks](https://www.udacity.com/course/new-android-fundamentals--ud851)
 - [ ] Schedule a background task using [JobScheduler](https://www.youtube.com/playlist?list=PLWy8DQlwJkdw_gbIbmGs4wplosYZn3kAm)
