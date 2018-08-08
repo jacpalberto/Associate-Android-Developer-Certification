@@ -81,7 +81,7 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
   - [ ] [[Team Treehouse Course] Custom Views in Android](https://teamtreehouse.com/library/custom-views-in-android)
 - [ ] Implement a custom application theme
   - [x] [[Android Developer Page] Styles and Themes](https://developer.android.com/guide/topics/ui/themes.html)
-  - [ ] [[CodePath* Page] Developing Custom Theme](https://guides.codepath.com/android/Developing-Custom-Themes)
+  - [x] [[CodePath* Page] Developing Custom Theme](https://guides.codepath.com/android/Developing-Custom-Themes)
   - [ ] [[Android Studio Page] Design App Themes with Theme Editor](https://developer.android.com/studio/write/theme-editor.html)
   - [x] [[Udacity Course] Developing Android Apps Lesson: Polishing the UI - Styles and Themes](https://www.udacity.com/course/new-android-fundamentals--ud851)
 - [x] Apply a custom style to a group of common widgets
