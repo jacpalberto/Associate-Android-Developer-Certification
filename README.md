@@ -79,10 +79,10 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
   - [ ] [ [Techotopia] Creating an Android User Interface in Java Code](http://www.techotopia.com/index.php/Creating_an_Android_User_Interface_in_Java_Code)
 - [ ] Create a custom view class and add it to a layout
   - [ ] [[Team Treehouse Course] Custom Views in Android](https://teamtreehouse.com/library/custom-views-in-android)
-- [ ] Implement a custom application theme
+- [x] Implement a custom application theme
   - [x] [[Android Developer Page] Styles and Themes](https://developer.android.com/guide/topics/ui/themes.html)
   - [x] [[CodePath* Page] Developing Custom Theme](https://guides.codepath.com/android/Developing-Custom-Themes)
-  - [ ] [[Android Studio Page] Design App Themes with Theme Editor](https://developer.android.com/studio/write/theme-editor.html)
+  - [x] [[Android Studio Page] Design App Themes with Theme Editor](https://developer.android.com/studio/write/theme-editor.html)
   - [x] [[Udacity Course] Developing Android Apps Lesson: Polishing the UI - Styles and Themes](https://www.udacity.com/course/new-android-fundamentals--ud851)
 - [x] Apply a custom style to a group of common widgets
   - [x] [[Android Developer Page] Styles and Themes](https://developer.android.com/guide/topics/ui/themes.html)
@@ -92,8 +92,8 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
   - [x] [[CodePath* ] Using Recycler View](https://guides.codepath.com/android/using-the-recyclerview)
   - [ ] [[Treehouse Course] Android Lists and Adapters](https://teamtreehouse.com/library/android-lists-and-adapters)
   - [x] [[Udacity Course] Developing Android Apps Lesson: RecyclerView](https://www.udacity.com/course/new-android-fundamentals--ud851)
-- [ ] Bind local data to a RecyclerView list
-  - [ ] [[Android Developer Site] Recycler View](https://developer.android.com/guide/topics/ui/layout/recyclerview.html)
+- [x] Bind local data to a RecyclerView list
+  - [x] [[Android Developer Site] Recycler View](https://developer.android.com/guide/topics/ui/layout/recyclerview.html)
   - [x] [[CodePath* ] Using Recycler View](https://guides.codepath.com/android/using-the-recyclerview)
   - [ ] [[Treehouse Course] Android Lists and Adapters](https://teamtreehouse.com/library/android-lists-and-adapters)
   - [x] [[Udacity Course] Developing Android Apps Lesson: RecyclerView](https://www.udacity.com/course/new-android-fundamentals--ud851)
