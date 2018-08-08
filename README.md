@@ -87,16 +87,16 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
 - [x] Apply a custom style to a group of common widgets
   - [x] [[Android Developer Page] Styles and Themes](https://developer.android.com/guide/topics/ui/themes.html)
   
-- [ ] Define a RecyclerView item list
-  - [ ] [[Android Developer Site] Recycler View](https://developer.android.com/guide/topics/ui/layout/recyclerview.html)
-  - [ ] [[CodePath* ] Using Recycler View](https://guides.codepath.com/android/using-the-recyclerview)
+- [x] Define a RecyclerView item list
+  - [x] [[Android Developer Site] Recycler View](https://developer.android.com/guide/topics/ui/layout/recyclerview.html)
+  - [x] [[CodePath* ] Using Recycler View](https://guides.codepath.com/android/using-the-recyclerview)
   - [ ] [[Treehouse Course] Android Lists and Adapters](https://teamtreehouse.com/library/android-lists-and-adapters)
-  - [ ] [[Udacity Course] Developing Android Apps Lesson: RecyclerView](https://www.udacity.com/course/new-android-fundamentals--ud851)
+  - [x] [[Udacity Course] Developing Android Apps Lesson: RecyclerView](https://www.udacity.com/course/new-android-fundamentals--ud851)
 - [ ] Bind local data to a RecyclerView list
   - [ ] [[Android Developer Site] Recycler View](https://developer.android.com/guide/topics/ui/layout/recyclerview.html)
-  - [ ] [[CodePath* ] Using Recycler View](https://guides.codepath.com/android/using-the-recyclerview)
+  - [x] [[CodePath* ] Using Recycler View](https://guides.codepath.com/android/using-the-recyclerview)
   - [ ] [[Treehouse Course] Android Lists and Adapters](https://teamtreehouse.com/library/android-lists-and-adapters)
-  - [ ] [[Udacity Course] Developing Android Apps Lesson: RecyclerView](https://www.udacity.com/course/new-android-fundamentals--ud851)
+  - [x] [[Udacity Course] Developing Android Apps Lesson: RecyclerView](https://www.udacity.com/course/new-android-fundamentals--ud851)
 - [ ] Implement menu-based or drawer navigation
   - [ ] [[Android Developers Page] Creating a Navigation Drawer][ui_ux_android_page_creating_drawer]
   - [ ] [[Android Developers Blog] Android Design Support Library Navigation View][ui_ux_android_developer_blog_navigation_view]
