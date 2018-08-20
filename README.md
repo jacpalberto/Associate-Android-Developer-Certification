@@ -142,16 +142,16 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
   - [x] [[Android Developers Page]  Saving Data in SQL Databases][db_android_guide_database]
   - [ ] [[Udacity Course]  Data Storage][db_udacity]
   - [ ] [[Team Treehouse] Android Data Persistence][db_treehouse_data_persistence]
-- [ ] Create an application-private database file
-- [ ] Construct database queries returning single results
-  - [ ] [[Android Developers Page] Read Information from a Database][db_android_guide_database_read]
-- [ ] Construct database queries returning multiple results
-  - [ ] [[Android Developers Page]  Read Information from a Database][db_android_guide_database_read]
-- [ ] Insert new items into a database
-  - [ ] [[Android Developers Page]  Put Information into a Database][db_android_guide_database_write]
-- [ ] Update or delete existing items in a database
-  - [ ] [[Android Developers Page]  Update a Database][db_android_guide_database_update]
-  - [ ] [[Android Developers Page]  Delete Information from a Database][db_android_guide_database_delete]
+- [x] Create an application-private database file
+- [x] Construct database queries returning single results
+  - [x] [[Android Developers Page] Read Information from a Database][db_android_guide_database_read]
+- [x] Construct database queries returning multiple results
+  - [x] [[Android Developers Page]  Read Information from a Database][db_android_guide_database_read]
+- [x] Insert new items into a database
+  - [x] [[Android Developers Page]  Put Information into a Database][db_android_guide_database_write]
+- [x] Update or delete existing items in a database
+  - [x] [[Android Developers Page]  Update a Database][db_android_guide_database_update]
+  - [x] [[Android Developers Page]  Delete Information from a Database][db_android_guide_database_delete]
 - [ ] Expose a database to other applications via [Content Provider](https://www.youtube.com/playlist?list=PLWy8DQlwJkdy2_bBHMQgGyrN4784K3Go0)
   - [ ] [[Udacity Course] How to Use a Content Provider][persistent_data_storage_udacity_how_to_use_content_provider]
   - [ ] [[Udacity Course]  Data Storage Lesson 3: Introduction To Content Providers][db_udacity]
