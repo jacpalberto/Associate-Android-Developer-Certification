@@ -104,8 +104,8 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
   - [x] [[Antonio Leiva Blog] Design Support Library (I): Navigation View][ui_ux_navigation_view]
   - [x] [[Android Development Patterns] Episode 8 Navigation Drawer, DrawerLayout, and NavigationView](https://www.youtube.com/watch?v=DkT0vS14Um0&feature=youtu.be&list=PLWz5rJ2EKKc-lJo_RGGXL2Psr8vVCTWjM)
 - [ ] Localize the application's UI text into one other language
-  - [ ] [[Android Developer Page] Localizing with Resources](https://developer.android.com/guide/topics/resources/localization.html)
-  - [ ] [[Android Developer Page] Supporting Different Languages and Cultures](https://developer.android.com/training/basics/supporting-devices/languages.html)
+  - [x] [[Android Developer Page] Localizing with Resources](https://developer.android.com/guide/topics/resources/localization.html)
+  - [x] [[Android Developer Page] Supporting Different Languages and Cultures](https://developer.android.com/training/basics/supporting-devices/languages.html)
    - [ ] [[Treehouse Course] Localization in Android](https://teamtreehouse.com/library/localization-in-android)
     - [ ] [[Android Developer Page] Localization checklist](https://developer.android.com/distribute/best-practices/launch/localization-checklist.html)
   - [ ] [[Android Developer Page] NumberFormat](https://developer.android.com/reference/java/text/NumberFormat.html)
@@ -139,7 +139,7 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
 >Determining appropriate use cases for local [persisted data](https://www.youtube.com/playlist?list=PLWy8DQlwJkdzafwjoVUcx9283oIbJQvFC), and designing solutions to implement data storage using files, preferences, and databases. This includes implementing strategies for bundling static data with applications, caching data from remote sources, and managing user-generated private data. Candidates should also be able to describe platform features that allow applications to store data securely and share that data with other applications in a secure manner.
 
 - [ ] Define a database schema; include tables, fields, and indices
-  - [ ] [[Android Developers Page]  Saving Data in SQL Databases][db_android_guide_database]
+  - [x] [[Android Developers Page]  Saving Data in SQL Databases][db_android_guide_database]
   - [ ] [[Udacity Course]  Data Storage][db_udacity]
   - [ ] [[Team Treehouse] Android Data Persistence][db_treehouse_data_persistence]
 - [ ] Create an application-private database file
